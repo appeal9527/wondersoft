@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://115.28.3.236/download/MobSafeClient.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://cdnuni.115.com/files/c200/0/FCEKdAZWCawgLqDB9Nz3q61RlIySGDwZBYHKMgtN/browser_app_icon%402x.png?t=1481535914&amp;u=2072714325-592919534-d7l32t9ltpbfxx5us&amp;s=51200&amp;k=NaLzE8aBGR0iWnYBhC_PGg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://cdnuni.115.com/files/c200/0/FCEKdAZWCawgLqDB9Nz3q61RlIySGDwZBYHKMgtN/browser_app_icon%402x.png?t=1481535914&amp;u=2072714325-592919534-d7l32t9ltpbfxx5us&amp;s=51200&amp;k=NaLzE8aBGR0iWnYBhC_PGg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zotn.MobSafeClient</string>
+				<key>bundle-version</key>
+				<string>3.1.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>民生银行</string>
+				<key>title</key>
+				<string>移动安全应用</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
